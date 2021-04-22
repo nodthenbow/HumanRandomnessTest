@@ -20,7 +20,7 @@ If you xor the sequence of user guesses with the revealed flips then that gets y
 Right now this is a simple proof of concept program. 
 It works, but it is not efficient or user friendly.
 
-Contact me if you do something with this, quickest way is with twitter @nodthenbow
+Contact me if you do something with this, quickest way is through twitter @nodthenbow
 */
 
 #include <iostream>
